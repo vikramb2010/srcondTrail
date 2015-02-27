@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31652" started-at="2015-02-26T15:10:49Z" finished-at="2015-02-26T15:11:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31652" started-at="2015-02-26T15:10:49Z" finished-at="2015-02-26T15:11:21Z">
+      <class name="test.ExcelDataDrivenTest">
+        <test-method status="PASS" signature="testSeachCountry()[pri:0, instance:test.ExcelDataDrivenTest@591f989e]" name="testSeachCountry" duration-ms="31629" started-at="2015-02-26T15:10:49Z" finished-at="2015-02-26T15:11:21Z">
+        </test-method> <!-- testSeachCountry -->
+      </class> <!-- test.ExcelDataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
